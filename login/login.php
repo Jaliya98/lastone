@@ -19,7 +19,7 @@
   		}
   	}
   	else{
-  		echo "<h2>Invalid Email or Password</h2>";
+  		echo "<h2>Invalid Email or Password</h2>"; //echo
   	}
   }
 
